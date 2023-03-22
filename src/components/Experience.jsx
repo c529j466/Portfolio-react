@@ -41,51 +41,33 @@ const experience = () => {
     },
     {
         id: 5,
-        src: Tailwind,
-        title: 'Tailwind',
-        style:'shadow-sky-400'
-    },
-    {
-        id: 6,
         src: Graphql,
         title: 'GraphQl',
         style:'shadow-pink-400'
     },
     {
-        id: 7,
+        id: 6,
         src: MySql,
         title: 'MySQL',
         style:'shadow-orange-400'
     },
     {
-        id: 8,
+        id: 7,
         src: Mongo,
         title: 'MongoDB',
         style:'shadow-green-500'
     },
     {
-        id: 9,
+        id: 8,
         src: Node,
         title: 'NodeJS',
         style:'shadow-green-500'
     },
     {
-        id: 10,
+        id: 9,
         src: Express,
         title: 'ExpressJS',
         style:'shadow-yellow-500'
-    },
-    {
-        id: 11,
-        src: Apollo,
-        title: 'Apollo Server',
-        style:'shadow-blue-500'
-    },
-    {
-        id: 12,
-        src: Github,
-        title: 'GitHub',
-        style:'shadow-gray-500'
     },
    
   ]
