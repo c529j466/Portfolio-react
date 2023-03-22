@@ -3,7 +3,7 @@ import ChiefdomHomepage from '../assets/portfolio/Chiefdom-Homepage-ScreenShot.p
 import ConcertWeather from '../assets/portfolio/concert-weather-connect.png';
 import EmployeeTracker  from '../assets/portfolio/employee-tracker.png';
 import Jate from '../assets/portfolio/jate.png';
-import MernSearch from '../assets/portfolio/Mern-book-search.png';
+import Asteroids from '../assets/portfolio/Asteroids.png';
 import WeatherDashboard from '../assets/portfolio/weather-dashboard.png';
 
 const Portfolio = () => {
@@ -39,10 +39,10 @@ const Portfolio = () => {
         },
         {
             id:5,
-            src: MernSearch,
-            title: "MERN Book Search Engine",
-            href: "https://mern-book-search-engine3.herokuapp.com/",
-            href2: "https://github.com/c529j466/MERN-Book-Search-Engine",
+            src: Asteroids,
+            title: "Asteroids",
+            href: "https://stupendous-kataifi-3c682f.netlify.app",
+            href2: "https://github.com/c529j466/Asteroids-",
         },
         {
             id:6,
